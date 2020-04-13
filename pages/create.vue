@@ -5,9 +5,9 @@
 </template>
 <script>
 export default {
-  head(){
-    return{
-      title: 'Create an Event',
+  head() {
+    return {
+      title: 'Create an Event'
     }
   }
 }
