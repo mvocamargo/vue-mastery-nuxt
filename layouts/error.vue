@@ -35,6 +35,7 @@ export default {
       title: this.message
     }
   },
+  // eslint-disable-next-line
   computed: {
     statusCode() {
       // <--- Get the status code
