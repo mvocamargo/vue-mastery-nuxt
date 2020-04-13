@@ -4,5 +4,11 @@
   </div>
 </template>
 <script>
-export default {}
+export default {
+  head(){
+    return{
+      title: 'Event Listing - Real World Events',
+    }
+  }
+}
 </script>
